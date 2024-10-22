@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "ch32v003fun.h": "c",
+        "ch32v003_joypad.h": "c",
+        "time.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+[submodule "lib/ch32v003-joypad"]
+	path = lib/ch32v003-joypad
+	url = https://gitlab.com/ch405labs/ch32v003-joypad.git
+[submodule "lib/ch32v003-st7735-driver"]
+	path = lib/ch32v003-st7735-driver
+	url = https://gitlab.com/ch405labs/ch32v003-st7735-driver.git
