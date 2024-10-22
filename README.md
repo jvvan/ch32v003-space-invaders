@@ -57,3 +57,9 @@ Use the middle button to move in that direction and the top buttons to shoot.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Images
+
+![image1](https://github.com/user-attachments/assets/35e9f174-ab18-4464-9068-38515e3eacb7)
+![image2](https://github.com/user-attachments/assets/063a95b2-9bf0-41e1-b3e4-079e21eda4d3)
+![image3](https://github.com/user-attachments/assets/1ca8540b-19ca-450f-855c-bc837d248a08)
+![image4](https://github.com/user-attachments/assets/eb62fdef-250c-47dd-8867-1f30b5c87d5b)
+
